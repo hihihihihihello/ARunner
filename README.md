@@ -10,4 +10,4 @@ ARunner is a Gorilla Tag Fan Game! ARunner is a VR game where you can play with 
 
 [![Get it for free on Itch.io](https://img.shields.io/badge/Get_it_for_free_on-Itch.io-339DFF?style=for-the-badge&logo=itch-io&logoColor=white)](https://andrewm813.itch.io/arunner)
 
-## How to get ARunner
+## How to get/play ARunner
